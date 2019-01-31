@@ -1,2 +1,2 @@
 # Ricoh-FF-2019
-HTML Email Coding
+![Preview](https://github.com/gbjack/Ricoh-FF-2019/blob/master/img/screenGrab.png)
